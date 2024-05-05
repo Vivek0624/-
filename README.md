@@ -1,2 +1,2 @@
 # vivekgundu.me
-portfolio websit
+portfolio website
